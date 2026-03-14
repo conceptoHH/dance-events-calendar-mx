@@ -1,0 +1,48 @@
+{
+  "kind": "collectionType",
+  "collectionName": "eventos",
+  "info": {
+    "singularName": "evento",
+    "pluralName": "eventos",
+    "displayName": "Evento"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nombre": {
+      "type": "string",
+      "default": "evento-ejemplo",
+      "required": true
+    },
+    "lugar": {
+      "type": "string",
+      "required": true
+    },
+    "fecha_texto": {
+      "type": "string"
+    },
+    "detalles": {
+      "type": "richtext"
+    },
+    "color_evento": {
+      "type": "string",
+      "customField": "plugin::color-picker.color"
+    },
+    "fecha": {
+      "type": "date",
+      "required": true
+    },
+    "enlace_instagram": {
+      "type": "string"
+    },
+    "imagen": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}
