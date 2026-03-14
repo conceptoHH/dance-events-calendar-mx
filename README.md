@@ -1,12 +1,10 @@
-# Dance Events Calendar MX (Monorepo)
-
+# Dance Events Calendar MX 
 Este es un proyecto experimental desarrollado bajo el concepto de Vibe Coding. El objetivo principal de este repositorio es explorar y poner a prueba las capacidades de programación asistida exclusivamente por modelos de lenguaje (LLMs) y herramientas de IA generativa.
 
 ## Propósito del Proyecto
 Este no es un proyecto de desarrollo convencional. Se trata de un experimento para:
 1. Explorar el Vibe Coding: Construir una aplicación funcional delegando la arquitectura y la implementación lógica a la IA.
-2. Productividad con LLMs: Evaluar la velocidad y precisión de las herramientas de IA en un entorno de desarrollo fullstack.
-3. Prototipado Rápido: Probar los límites de un desarrollador actuando como orquestador en lugar de escritor de código tradicional.
+2. Finalizar el proyecto que tenia meses sin tocar y no me acordaba como funcionaba
 
 ## Estructura del Monorepo
 El proyecto está dividido en dos grandes bloques:
